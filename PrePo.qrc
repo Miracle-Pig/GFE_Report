@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/Res">
+        <file>Report/3DElasticTimeHistory.docx</file>
+        <file>Report/ReactionDisp.docx</file>
+        <file>Report/ShockAbsorptionIsolation.docx</file>
+        <file>Report/TimeHistory.docx</file>
+        <file>QSS/DlgReport.qss</file>
+        <file>QSS/Common.qss</file>
+        <file>Report/TestTemplate.docx</file>
+    </qresource>
+</RCC>
